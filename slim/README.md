@@ -1,8 +1,8 @@
 # Bad Wings: Slim
 Ultrathin, wireless Bad Wings.
 
-![Bad Wings: Slim - top view](images/bad-wings-slim-top.jpg)
 ![Bad Wings: Slim - side view](images/bad-wings-slim-side.jpg)
+![Bad Wings: Slim - top view](images/bad-wings-slim-top.jpg)
 
 
 # Features
