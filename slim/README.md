@@ -11,7 +11,6 @@ Ultrathin, wireless Bad Wings.
 * Bluetooth via XIAO BLE
 * CR2032 Battery
 * [Open Source](source/)
-* [Gerbers](source/GERBER-bad_wings_slim.zip)
 
 # Materials
 * 1x XIAO BLE
