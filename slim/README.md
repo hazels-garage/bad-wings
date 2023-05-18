@@ -1,9 +1,9 @@
 # Bad Wings: Slim
+Ultrathin, wireless Bad Wings.
 
 ![Bad Wings: Slim - top view](images/bad-wings-slim-top.jpg)
 ![Bad Wings: Slim - side view](images/bad-wings-slim-side.jpg)
 
-Ultrathin, wireless Bad Wings.
 
 # Features
 * 36 key, Kailh XSwitches.
@@ -13,18 +13,27 @@ Ultrathin, wireless Bad Wings.
 * [Open Source](source/)
 * [Gerbers](source/GERBER-bad_wings_slim.zip)
 
+# Materials
+* 1x XIAO BLE
+* 36x [Kailh XSwitch and Keycaps](https://mkultra.click/kailh-x-switches-and-keycaps/)
+* 37x SOD-123 1N4148 Diodes
+* 1x MSK-12C02 Power Switch
+* 1x [CR2032 Battery Holder](https://www.aliexpress.us/item/2251832843180857.html)
+
 # Build Guide
 * Install Diodes
-* Solder XIAO on top of PCB
-* Solder BAT and NFC pads from back of PCB
+* Solder XIAO
+  * Surface mounted on top of PCB
+  * Solder BAT and NFC pads from back of PCB
 * Flash [Firmware](FIRMWARE.md)
 * Test matrix works 
   * use metal tweezers to short the connections for each switch on the PCB
 * If matrix works, install switches
   * place the switches and then tape them in place
   * flip board over, solder switches
-  * repeat until you're out of switches
+  * _I install the switches a column at a time but, you do you._
 * Solder CR2032 holder
+* Solder battery diode
 * Solder Power Switch
 * Insert Battery
 * Done
