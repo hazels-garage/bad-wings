@@ -1,4 +1,5 @@
 # Bad Wings v1
+![Bad Wings](images/bad-wings-v1.jpg)
 
 The original Bad Wings. Available at [Hazel's Garage](https://shop.hazel.cc/products/bad-wings)
 
@@ -8,11 +9,12 @@ The original Bad Wings. Available at [Hazel's Garage](https://shop.hazel.cc/prod
 
 
 ## Cases
-[Original](cases/original/) | [Inset](cases/inset)
+[Original](cases/original/) | [Inset](cases/inset) (Coming Soon)
 
 ## Build Guide
-* Install Hot Swap Sockets
-* Install XIAO controller (and sockets)
+* Install Switch Hot Swap Sockets
+* Install XIAO Sockets
+* Install Pins on XIAO
 * Connect ribbon cable to Cirque touchpad
 * Connect cirque to PCB
 * Flash [Firmware](FIRMWARE.md), test Cirque and switches
