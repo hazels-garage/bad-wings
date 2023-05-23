@@ -1,4 +1,4 @@
-# Bad Wings: Pocket
+# Bad Wings: Go
 Wireless "Pocket" "Sized" "Ergonomic" "Keyboard"
 
 ![Bad Wings: Go - top view](images/bad-wings-go.jpg)
