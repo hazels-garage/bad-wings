@@ -8,9 +8,10 @@ Oops! All 1.25u!
 * RP2040-Zero
 
 # Materials
-36x Choc v1 Switches
-36x SOD-123 1N4148 Diodes
-36x Hotswap Sockets (optional)
+* 1x RP2040-zero
+* 36x Choc v1 Switches
+* 36x SOD-123 1N4148 Diodes
+* 36x Hotswap Sockets (optional)
 
 
 # Build Guide
