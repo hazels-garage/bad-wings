@@ -6,4 +6,4 @@
 * [slim](/slim) - ultrathin wireless
 * [pocket](/pocket) - thumb keeb
 * [go](/go) - wireless thumb keeb
-* [bold](/bold) - Coming Soon
+* [bold](/bold) - Oops! All 1.25u!
