@@ -5,11 +5,34 @@
   <img src="https://img.shields.io/discord/989552667330228374?color=%237289da&label=%20&logo=discord&logoColor=%23fff&style=flat-square" />
 </a>
 
-# Bad Wings
+# Bad Wings v2
+![Bad Wings v2](images/bad-wings-v2-no-cirque.jpg)
 
-* [v2](/v2) - Current Hotness
-* [v1](/v1) - The Original
-* [slim](/slim) - ultrathin wireless
-* [pocket](/pocket) - thumb keeb
-* [go](/go) - wireless thumb keeb
-* [bold](/bold) - Oops! All 1.25u!
+Improves upon the original by ditching the XIAO and shift register for an onboard STM32 microprocessor, reducing the build time and simplifying kits.
+
+## Features
+* 36 key unibody split
+* Choc spaced, column staggered layout
+* Gentle splay on ring and pinky columns
+* Onboard STM32F072
+* Cirque touchpad support
+* Built in mounting standoffs
+* [3D Printed Case](case/)
+
+## Build Summary
+* Solder hotswap sockets
+* Insert switches into switchplate
+* Insert switches into hotswap sockets
+* If Cirque
+    * Use soldering iron to install heatset inserts into Cirque housing
+    * Insert FPC cable into Cirque
+    * Insert Cirque into housing
+    * Run FPC cable through Switchplate/PCB
+    * Connect FPC to PCB
+* [Flash Firmware](firmware/README.md)
+* Insert PCB into bottom case
+* Use 8mm countersunk screws through bottom of case into PCB
+    * If Cirque, use 12mm countersunk screws to attach housing
+* Apply rubber feet to bottom of case
+* Enjoy!
+
