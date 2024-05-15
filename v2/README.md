@@ -27,6 +27,7 @@ Improves upon the original by ditching the XIAO and shift register for an onboar
     * Use soldering iron to install heatset inserts into Cirque housing
     * Insert FPC cable into Cirque
     * Insert Cirque into housing
+      * A dab or two of hotglue on the underside will help keep it in place.
     * Run FPC cable through Switchplate/PCB
     * Connect FPC to PCB
 * [Flash Firmware](firmware/README.md)
