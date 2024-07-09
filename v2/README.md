@@ -34,6 +34,8 @@ Improves upon the original by ditching the XIAO and shift register for an onboar
     * Connect FPC to PCB
       * note: the blue tape side of the cable should be facing away from the PCB
 * [Flash Firmware](firmware/README.md)
+    * PCBs are pre-flashed with VIAL, so this step is optional at this time.
+* Remove orange stickers from PCB standoffs.
 * Insert PCB into bottom case
 * Use 8mm countersunk screws through bottom of case into PCB
     * If Cirque, use 12mm countersunk screws to attach housing
