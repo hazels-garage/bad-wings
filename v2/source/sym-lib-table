@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bad-wings")(type "KiCad")(uri "${KIPRJMOD}/bad-wings.kicad_sym")(options "")(descr ""))
+)
