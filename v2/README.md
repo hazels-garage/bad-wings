@@ -6,7 +6,7 @@
 </a>
 
 # Bad Wings v2
-![Bad Wings v2](images/bad-wings-v2-no-cirque.jpg)
+![Bad Wings v2](images/IMG-20240424_002453_544_76064da8-9d99-4911-b8c1-539a32235b14.jpg)
 
 Improves upon the original by ditching the XIAO and shift register for an onboard STM32 microprocessor, reducing the build time and simplifying kits.
 
