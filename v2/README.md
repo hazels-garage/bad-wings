@@ -44,3 +44,6 @@ Improves upon the original by ditching the XIAO and shift register for an onboar
 * Apply rubber feet to bottom of case
 * Enjoy!
 
+## Special Thanks
+* GeorgeN for helping me get the cirque working in QMK.
+* Sadek Baroudi for fingerpunch and cultivating a great community
