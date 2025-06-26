@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/badge/CC--BY--SA-test?style=flat-square&logo=creativecommons&logoColor=ffffff&label=%20&labelColor=8CBA04&color=8CBA04)
 <a href="https://discord.gg/jP6hvgNN8r">
   <img src="https://img.shields.io/discord/989552667330228374?color=%237289da&label=%20&logo=discord&logoColor=%23fff&style=flat-square" />
 </a>
