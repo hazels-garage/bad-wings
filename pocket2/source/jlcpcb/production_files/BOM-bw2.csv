@@ -1,0 +1,83 @@
+Comment,Designator,Footprint,LCSC,Quantity
+,H1,MountingHole_2.2mm_M2,,1
+,H2,MountingHole_2.2mm_M2,,1
+RP2040-Zero,U1,rp2040-zero-facedown-swapped-5v-gnd,,1
+,H3,MountingHole_2.2mm_M2,,1
+,H4,MountingHole_2.2mm_M2,,1
+,H5,MountingHole_2.2mm_M2,,1
+,H6,MountingHole_2.2mm_M2,,1
+,H7,MountingHole_2.2mm_M2,,1
+,H8,MountingHole_2.2mm_M2,,1
+"[7,4]",SW36,Silent Square Micro Switch,,1
+"[7,3]",SW35,Silent Square Micro Switch,,1
+"[7,2]",SW34,Silent Square Micro Switch,,1
+"[3,4]",SW33,Silent Square Micro Switch,,1
+"[3,3]",SW32,Silent Square Micro Switch,,1
+"[3,2]",SW31,Silent Square Micro Switch,,1
+"[4,4]",SW30,Silent Square Micro Switch,,1
+"[5,4]",SW29,Silent Square Micro Switch,,1
+"[6,4]",SW28,Silent Square Micro Switch,,1
+"[4,3]",SW27,Silent Square Micro Switch,,1
+"[5,3]",SW26,Silent Square Micro Switch,,1
+"[6,3]",SW25,Silent Square Micro Switch,,1
+"[4,2]",SW24,Silent Square Micro Switch,,1
+"[5,2]",SW23,Silent Square Micro Switch,,1
+"[6,2]",SW22,Silent Square Micro Switch,,1
+"[4,1]",SW21,Silent Square Micro Switch,,1
+"[5,1]",SW20,Silent Square Micro Switch,,1
+"[6,1]",SW19,Silent Square Micro Switch,,1
+"[4,0]",SW18,Silent Square Micro Switch,,1
+"[5,0]",SW17,Silent Square Micro Switch,,1
+"[6,0]",SW16,Silent Square Micro Switch,,1
+"[0,4]",SW15,Silent Square Micro Switch,,1
+"[1,4]",SW14,Silent Square Micro Switch,,1
+"[2,4]",SW13,Silent Square Micro Switch,,1
+"[0,3]",SW12,Silent Square Micro Switch,,1
+"[1,3]",SW11,Silent Square Micro Switch,,1
+"[2,3]",SW10,Silent Square Micro Switch,,1
+"[0,2]",SW9,Silent Square Micro Switch,,1
+"[1,2]",SW8,Silent Square Micro Switch,,1
+"[2,2]",SW7,Silent Square Micro Switch,,1
+"[0,1]",SW6,Silent Square Micro Switch,,1
+"[1,2]",SW5,Silent Square Micro Switch,,1
+"[2,1]",SW4,Silent Square Micro Switch,,1
+"[0,0]",SW3,Silent Square Micro Switch,,1
+"[1,0]",SW2,Silent Square Micro Switch,,1
+"[2,0]",SW1,Silent Square Micro Switch,,1
+1N4148W,D36,D_SOD-123,,1
+1N4148W,D35,D_SOD-123,,1
+1N4148W,D34,D_SOD-123,,1
+1N4148W,D33,D_SOD-123,,1
+1N4148W,D32,D_SOD-123,,1
+1N4148W,D31,D_SOD-123,,1
+1N4148W,D30,D_SOD-123,,1
+1N4148W,D29,D_SOD-123,,1
+1N4148W,D28,D_SOD-123,,1
+1N4148W,D27,D_SOD-123,,1
+1N4148W,D26,D_SOD-123,,1
+1N4148W,D25,D_SOD-123,,1
+1N4148W,D24,D_SOD-123,,1
+1N4148W,D23,D_SOD-123,,1
+1N4148W,D22,D_SOD-123,,1
+1N4148W,D21,D_SOD-123,,1
+1N4148W,D20,D_SOD-123,,1
+1N4148W,D19,D_SOD-123,,1
+1N4148W,D18,D_SOD-123,,1
+1N4148W,D17,D_SOD-123,,1
+1N4148W,D16,D_SOD-123,,1
+1N4148W,D15,D_SOD-123,,1
+1N4148W,D14,D_SOD-123,,1
+1N4148W,D13,D_SOD-123,,1
+1N4148W,D12,D_SOD-123,,1
+1N4148W,D11,D_SOD-123,,1
+1N4148W,D10,D_SOD-123,,1
+1N4148W,D9,D_SOD-123,,1
+1N4148W,D8,D_SOD-123,,1
+1N4148W,D7,D_SOD-123,,1
+1N4148W,D6,D_SOD-123,,1
+1N4148W,D5,D_SOD-123,,1
+1N4148W,D4,D_SOD-123,,1
+1N4148W,D3,D_SOD-123,,1
+1N4148W,D2,D_SOD-123,,1
+1N4148W,D1,D_SOD-123,,1
+,LOGO1,LOGO,,1
