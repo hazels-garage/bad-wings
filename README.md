@@ -9,5 +9,6 @@
 * [v1](/v1) - The Original
 * [slim](/slim) - ultrathin wireless
 * [pocket](/pocket) - thumb keeb
+* [pocket2](/pocket2) - better thumb keeb
 * [go](/go) - wireless thumb keeb
 * [bold](/bold) - Oops! All 1.25u!
