@@ -19,8 +19,8 @@
 * Could be used as a keychain, I guess.
 * [Open Source](source/)
 ## Cases
-[Top](cases/top.step)
-[Bottom](cases/bottom.step)
+[Top](case/top.step)
+[Bottom](case/bottom.step)
 
 ## Materials
 * 1x Waveshare RP2040-Zero
