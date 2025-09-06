@@ -28,7 +28,7 @@
 * 36x SOD-123 Diodes
 
 ## Build Guide
-* Solder siodes
+* Solder diodes
 * Solder switches
 * Solder RP2040-zero
 * Flash [firmware](FIRMWARE.md)
